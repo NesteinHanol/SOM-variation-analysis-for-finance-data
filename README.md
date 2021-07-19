@@ -1,0 +1,1 @@
+# SOM-variation-analysis-for-finance-data
